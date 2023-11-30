@@ -9,8 +9,8 @@ pip install requests
 ```
 
 # IMPORTANT
-Fitst of all you need to create disord bot and connect him to one of your discord channels
-tutorial: https://discordpy.readthedocs.io/en/stable/discord.html
+Fitst of all you need to create disord bot and connect him to one of your discord channels.
+Tutorial: https://discordpy.readthedocs.io/en/stable/discord.html
 
 You need to create credentials.py file with genereted token from discrod developer website for example:
 ```py
