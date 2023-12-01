@@ -6,6 +6,7 @@ In this reposiory I will create a functional chat bot and upgrade it in the futu
 # EXTENSIONS TO INSTALL
 ```py
 pip install requests
+pip install discord
 ```
 
 # IMPORTANT
