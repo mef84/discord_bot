@@ -8,6 +8,7 @@ In this reposiory I will create a functional chat bot and upgrade it in the futu
 pip install requests
 pip install discord
 ```
+Details on requirements.txt file
 
 # IMPORTANT
 Fitst of all you need to create discord bot and connect it to one of your discord channels.
