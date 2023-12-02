@@ -11,7 +11,7 @@ pip install discord
 Details on requirements.txt file
 
 # IMPORTANT
-Fitst of all you need to create discord bot and connect it to one of your discord channels.
+First of all you need to create discord bot and connect it to one of your discord channels.
 Tutorial how to create discord bot and connect it to channel: https://discordpy.readthedocs.io/en/stable/discord.html
 
 You need to create credentials.py file with genereted token from discrod developer website for example:
